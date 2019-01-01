@@ -1,1 +1,1 @@
-INSERT INTO projects (id, VALUES
+INSERT INTO projects (id, title, funding_goal, start_date, end_date) VALUES ()
