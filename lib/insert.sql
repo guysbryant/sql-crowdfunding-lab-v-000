@@ -1,1 +1,1 @@
-INSERT INTO projects VALUES
+INSERT INTO projects (id, VALUES
